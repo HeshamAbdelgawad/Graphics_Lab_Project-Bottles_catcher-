@@ -63,4 +63,18 @@ Developed by **Ahmed Hassan**, **Hesham Abdelgawad**, and **Abdelaziz Serour** u
 3. Compile the code using a C++ compiler:
    ```bash
    g++ -o BottleCatcher BottleCatcher.cpp -lGL -lGLU -lglut
-    bash```
+4. Run the executable:
+   ```bash
+   ./BottleCatcher
+5. Use the arrow keys or mouse to control the bowl and catch the bottles. Press R to restart the game after a Game Over.
+
+
+## Acknowledgments
+
+We extend our gratitude to:
+
+- **Dr. Amin Shokry**  
+- **Eng. Yasser**  
+- **Eng. Omnia**  
+
+for their guidance and support throughout the project.
